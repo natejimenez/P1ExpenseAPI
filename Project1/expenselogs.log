@@ -1,0 +1,260 @@
+2021-03-02 22:53:58 INFO  EmployeeServiceImpl:55 - An employee was created for null null
+2021-03-02 22:55:37 INFO  EmployeeServiceImpl:55 - An employee was created for null null
+2021-03-02 23:00:27 INFO  EmployeeServiceImpl:55 - An employee was created for null null
+2021-03-02 23:01:52 INFO  EmployeeServiceImpl:55 - An employee was created for Adam Ranieri
+2021-03-02 23:02:21 INFO  EmployeeServiceImpl:55 - An employee was created for Adam Ranieri
+2021-03-02 23:04:41 INFO  EmployeeServiceImpl:77 - The employee Adam Smith was updated.
+2021-03-02 23:05:59 INFO  EmployeeServiceImpl:96 - The employee with the ID of 1 was deleted.
+2021-03-02 23:19:27 INFO  EmployeeServiceImpl:55 - An employee was created for Adam Ranieri
+2021-03-02 23:20:12 INFO  ExpenseServiceImpl:71 - A new expense was created for employee ID 2.
+2021-03-02 23:21:35 INFO  ExpenseServiceImpl:71 - A new expense was created for employee ID 2.
+2021-03-02 23:25:07 INFO  ExpenseServiceImpl:38 - All expenses for employee 2 were retrieved
+2021-03-02 23:25:23 INFO  ExpenseServiceImpl:71 - A new expense was created for employee ID 2.
+2021-03-02 23:25:28 INFO  ExpenseServiceImpl:38 - All expenses for employee 2 were retrieved
+2021-03-02 23:27:37 INFO  ExpenseServiceImpl:56 - Expense from employee 2 and expense ID 2 was retrieved
+2021-03-02 23:27:45 INFO  ExpenseServiceImpl:38 - All expenses for employee 2 were retrieved
+2021-03-02 23:27:52 INFO  ExpenseServiceImpl:56 - Expense from employee 2 and expense ID 2 was retrieved
+2021-03-02 23:31:40 INFO  ExpenseServiceImpl:93 - Expense 2 for employee 2 was successfully updated
+2021-03-03 00:01:59 INFO  ExpenseServiceImpl:93 - Expense 2 for employee 2 was successfully updated
+2021-03-03 00:02:10 INFO  ExpenseServiceImpl:93 - Expense 2 for employee 2 was successfully updated
+2021-03-03 00:08:41 INFO  ExpenseServiceImpl:93 - Expense 2 for employee 2 was successfully updated
+2021-03-03 00:20:04 INFO  ExpenseServiceImpl:93 - Expense 2 for employee 2 was successfully updated
+2021-03-03 00:23:50 INFO  ExpenseServiceImpl:112 - Expense 2 for employee 2was successfully deleted.
+2021-03-03 00:30:51 INFO  ExpenseServiceImpl:136 - Expense 1 for employee 2 was successfully approved
+2021-03-03 00:31:35 INFO  ExpenseServiceImpl:136 - Expense 1 for employee 2 was successfully approved
+2021-03-03 00:31:44 INFO  ExpenseServiceImpl:155 - Expense 1 for employee 2 was successfully denied
+2021-03-06 22:11:57 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 22:12:14 INFO  EmployeeServiceImpl:24 - All employees were retrieved
+2021-03-06 22:12:35 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-06 22:13:28 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-06 22:13:49 INFO  EmployeeServiceImpl:55 - An employee was created for Nate Jimenez
+2021-03-06 22:13:56 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-06 22:14:34 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-06 22:14:39 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 22:39:04 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 22:40:00 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 22:47:40 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 22:48:52 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 22:49:49 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:12:18 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:12:56 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:14:33 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:14:42 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-06 23:14:44 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:39:24 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:45:04 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:45:52 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:46:01 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:46:05 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:47:44 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:47:48 INFO  ExpenseServiceImpl:150 - Expense 6 for employee 3 was successfully approved
+2021-03-06 23:47:48 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:48:02 INFO  ExpenseServiceImpl:150 - Expense 7 for employee 2 was successfully approved
+2021-03-06 23:48:02 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:49:49 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:49:54 INFO  ExpenseServiceImpl:169 - Expense 6 for employee 3 was successfully denied
+2021-03-06 23:49:57 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:50:08 INFO  ExpenseServiceImpl:150 - Expense 3 for employee 2 was successfully approved
+2021-03-06 23:50:11 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:50:17 INFO  ExpenseServiceImpl:169 - Expense 7 for employee 2 was successfully denied
+2021-03-06 23:50:19 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-06 23:55:16 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:00:28 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:06:28 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:07:02 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:07:10 INFO  ExpenseServiceImpl:150 - Expense 6 for employee 3 was successfully approved
+2021-03-07 00:07:12 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:07:30 INFO  ExpenseServiceImpl:150 - Expense 5 for employee 3 was successfully approved
+2021-03-07 00:07:32 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:07:47 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-07 00:07:49 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:11:38 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:13:37 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:23:23 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:23:31 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:35:07 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:35:31 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:38:09 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 00:41:23 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 13:50:32 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 13:52:44 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 13:57:08 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 13:57:29 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 13:58:12 INFO  ExpenseServiceImpl:150 - Expense 4 for employee 2 was successfully approved
+2021-03-07 13:58:14 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-07 23:52:14 INFO  ExpenseServiceImpl:169 - Expense 6 for employee 3 was successfully denied
+2021-03-07 23:52:16 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 00:49:48 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 00:50:02 INFO  ExpenseServiceImpl:70 - Expense from employee 2 and expense ID 4 was retrieved
+2021-03-08 00:51:04 INFO  ExpenseServiceImpl:70 - Expense from employee 2 and expense ID 4 was retrieved
+2021-03-08 00:53:57 INFO  ExpenseServiceImpl:70 - Expense from employee 3 and expense ID 6 was retrieved
+2021-03-08 00:57:57 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 00:58:04 INFO  ExpenseServiceImpl:70 - Expense from employee 2 and expense ID 8 was retrieved
+2021-03-08 00:58:05 INFO  ExpenseServiceImpl:107 - Expense 8 for employee 2 was successfully updated
+2021-03-08 00:58:07 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 00:58:18 INFO  ExpenseServiceImpl:70 - Expense from employee 3 and expense ID 6 was retrieved
+2021-03-08 00:58:19 INFO  ExpenseServiceImpl:107 - Expense 6 for employee 3 was successfully updated
+2021-03-08 00:58:21 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 00:58:56 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 00:59:53 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-08 01:00:27 INFO  ExpenseServiceImpl:150 - Expense 6 for employee 3 was successfully approved
+2021-03-08 01:00:29 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-09 19:19:25 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-09 19:23:56 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-09 19:27:01 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 12:33:47 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 12:37:04 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 12:37:25 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 12:45:56 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 13:02:38 INFO  ExpenseServiceImpl:38 - All expenses for employee 2 were retrieved
+2021-03-10 13:03:48 INFO  ExpenseServiceImpl:38 - All expenses for employee 2 were retrieved
+2021-03-10 15:04:13 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 15:05:12 INFO  ExpenseServiceImpl:38 - All expenses for employee 2 were retrieved
+2021-03-10 15:36:48 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 15:40:51 INFO  ExpenseServiceImpl:85 - A new expense was created for employee ID 2.
+2021-03-10 15:40:53 INFO  ExpenseServiceImpl:51 - All expenses were retrieved
+2021-03-10 15:41:55 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:41:57 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:42:55 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:43:02 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:43:04 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:43:48 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:44:58 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:46:59 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:50:06 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:50:08 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:50:21 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:50:23 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:50:46 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:51:01 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:51:03 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:52:08 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-10 15:52:10 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 15:54:01 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:00:56 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:05:54 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:06:13 INFO  ExpenseServiceImpl:157 - Expense 13 for employee 2 was successfully approved
+2021-03-10 16:06:29 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:06:40 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:08:27 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:09:48 INFO  ExpenseServiceImpl:157 - Expense 9 for employee 2 was successfully approved
+2021-03-10 16:10:06 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:10:18 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:10:54 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:11:02 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:13:13 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:13:26 INFO  ExpenseServiceImpl:157 - Expense 11 for employee 2 was successfully approved
+2021-03-10 16:13:28 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:31:03 INFO  ExpenseServiceImpl:187 - Expense 13 for employee 2 was successfully denied
+2021-03-10 16:33:47 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:34:04 INFO  ExpenseServiceImpl:187 - Expense 10 for employee 2 was successfully denied
+2021-03-10 16:34:06 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:35:34 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 16:39:15 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 16:39:19 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:40:03 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:40:46 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 16:42:09 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:18:26 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 17:18:31 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:25:42 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 17:26:03 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:26:44 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:28:13 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:36:37 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:45:27 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:46:48 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:46:55 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 17:47:55 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 17:47:57 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 18:00:24 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 18:00:48 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 18:00:59 INFO  ExpenseServiceImpl:157 - Expense 1 for employee 2 was successfully approved
+2021-03-10 18:01:01 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 18:01:16 INFO  ExpenseServiceImpl:187 - Expense 11 for employee 2 was successfully denied
+2021-03-10 18:01:18 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 18:01:36 INFO  ExpenseServiceImpl:72 - Expense from employee 3 and expense ID 6 was retrieved
+2021-03-10 18:01:37 INFO  ExpenseServiceImpl:109 - Expense 6 for employee 3 was successfully updated
+2021-03-10 18:01:40 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 18:01:55 INFO  ExpenseServiceImpl:72 - Expense from employee 2 and expense ID 7 was retrieved
+2021-03-10 18:01:56 INFO  ExpenseServiceImpl:109 - Expense 7 for employee 2 was successfully updated
+2021-03-10 18:01:58 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 18:02:00 INFO  ExpenseServiceImpl:72 - Expense from employee 2 and expense ID 7 was retrieved
+2021-03-10 18:02:01 INFO  ExpenseServiceImpl:109 - Expense 7 for employee 2 was successfully updated
+2021-03-10 18:02:03 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 19:29:11 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:30:53 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-10 20:44:34 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:48:33 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:50:07 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:50:14 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:50:59 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:51:08 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:51:22 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:52:16 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-10 20:53:54 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 00:08:36 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:11:26 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:17:16 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:19:29 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:20:37 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:24:46 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:28:14 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:28:27 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:30:12 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:30:25 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:31:22 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:31:38 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:31:47 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:33:57 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:35:35 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:37:39 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:38:18 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:38:36 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:39:20 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:39:31 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:39:49 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:40:17 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:45:53 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:46:50 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:47:14 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:47:30 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:47:42 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:48:27 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:49:03 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:49:23 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 00:50:28 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 01:05:18 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:09:35 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:13:54 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:14:05 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:15:46 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:15:54 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:16:08 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:16:26 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:16:39 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:16:46 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:16:55 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:17:39 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:23:05 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 01:23:31 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-11 01:38:12 INFO  ExpenseServiceImpl:157 - Expense 9 for employee 2 was successfully approved
+2021-03-11 10:48:37 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-11 11:01:00 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 13:50:03 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:01:20 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:01:50 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:02:24 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:02:56 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:03:30 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:03:49 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:03:58 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:04:14 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:04:36 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:04:57 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:05:11 INFO  ExpenseServiceImpl:87 - A new expense was created for employee ID 2.
+2021-03-12 14:05:13 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:19:11 INFO  ExpenseServiceImpl:40 - All expenses for employee 2 were retrieved
+2021-03-12 14:20:26 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-12 14:20:32 INFO  ExpenseServiceImpl:53 - All expenses were retrieved
+2021-03-12 14:21:23 INFO  ExpenseServiceImpl:53 - All expenses were retrieved

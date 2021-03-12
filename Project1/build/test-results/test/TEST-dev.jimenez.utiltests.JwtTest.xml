@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.jimenez.utiltests.JwtTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-10T01:38:17" hostname="DESKTOP-489DSVI" time="0.268">
+  <properties/>
+  <testcase name="decode_jwt()" classname="dev.jimenez.utiltests.JwtTest" time="0.246"/>
+  <testcase name="create_jwt()" classname="dev.jimenez.utiltests.JwtTest" time="0.02"/>
+  <system-out><![CDATA[manager
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoibWFuYWdlciIsIklEOiI6MSwidXNlcm5hbWUiOiJuYXRoYW5qIn0.5WbHLSzzgC88do1CjUFFA4oEVqGT9K0wLyzhwOeLFKs
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
