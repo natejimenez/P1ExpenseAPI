@@ -4,14 +4,20 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 # Technologies Used
 
-- JavaScript,
-- HTML, 
-- CSS, 
-- AJAX, 
-- SQL, 
-- Hibernate,
-- Java, 
-- Javalin, 
-- Mockito, 
+- JavaScript
+- HTML
+- CSS 
+- AJAX 
+- SQL 
+- Hibernate
+- Java
+- Javalin 
+- Mockito 
 - JUnit
+
+# Features
+
+- Employees and managers can log into the system using their own credentials, obtaining a unique JWT token
+- An employee can submit expenses and view their own expenses
+- A manager can view all employee expenses, approve/deny/delete them, and submit their own expenses
 
